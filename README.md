@@ -22,20 +22,27 @@ Docker, Git, AWS, APIs, Model Deployment, Data Pipelines
 ## 🌱 Currently Learning
 
 MLOps and scalable model deployment
+
 Deep Learning and Transformer-based models
+
 Advanced feature engineering and model optimization
 
 ## 🤝 Open to Collaborate On
 
 Applied machine learning projects
+
 Predictive analytics and business optimization
+
 Data-driven solutions for sustainability, accessibility, and social impact
 
 ## 📬 How to reach me:
+
 https://www.linkedin.com/in/adriana-garc%C3%ADa-titla/
+
 Email: adriana21gt@gmail.com
 
 ## 😄 Pronouns: 
+
 she/her
 <!--
 **adiiana21/adiiana21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
